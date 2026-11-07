@@ -5,7 +5,7 @@ export const demos = {
   march: {id:'QilgMPG7OaA', creator:'HASfit'},
   squat: {id:'sUJB010F9Fw', creator:'Om Bisht Fitness Coach'},
   wallPushup: {id:'-KVhapnEtuk', creator:'CSIRO Total Wellbeing Diet'},
-  stepTouch: {id:'hQtY5k75iKY', creator:'How To Do A Step Touch'},
+  stepTouch: {id:'hQtY5k75iKY', creator:'Mico Dance'},
   bridge: {id:'tqp5XQPpTxY', creator:'PureGym'},
   birdDog: {id:'ZdAHe9_HeEw', creator:'NASM'},
   jumpingJack: {id:'nGaXj3kkmrU', creator:'Babylon Health'},
@@ -15,7 +15,7 @@ export const demos = {
   plank: {id:'bcsSK_AdXuw', creator:'NCHPAD'},
   highKnees: {id:'xGC7M-gySsQ', creator:'OriGym'},
   squatPulse: {id:'7HarjcM6b10', creator:'Leap Fitness'},
-  stepBurpee: {id:'bcfqzBJk9aM', creator:'Step-back / step-up burpee'},
+  stepBurpee: {id:'bcfqzBJk9aM', creator:'Olivia Park'},
   shoulderTap: {id:'QOCn3_iOAro', creator:'Northeastern'},
 } as const;
 
